@@ -1,2 +1,2 @@
 # ThingLinker
-adssd
+Actor-Network analysis for text data.
